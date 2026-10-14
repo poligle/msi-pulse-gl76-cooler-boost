@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This repo is no longer maintained since its considered finished and it will not receive new commits.**
+
 # MSI Pulse GL76 11UEK Cooler Boost toggle for Linux
 
 Small Linux script to toggle **Cooler Boost** on an MSI Pulse GL76 11UEK by writing the Cooler Boost bit in the Embedded Controller (EC), enabling external binding.
